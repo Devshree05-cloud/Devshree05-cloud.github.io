@@ -51,7 +51,7 @@ body {
 
 .title {
     position: absolute;
-    top: 20%;
+    top: 10%;
     left: 10%;
     transform: translateX(-20%);
     font-family: math;
@@ -155,7 +155,7 @@ body {
     color: #131313;
     line-height: 1.6;
     text-align: justify;
-    margin-top: 30vh;
+    margin-top: 22vh;
     margin-left: 10vh;
     position: absolute;
     z-index: 2;
